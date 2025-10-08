@@ -1,16 +1,28 @@
-## Hi there 👋
+## Welcome to my GitHub profile! 🌟
 
-<!--
-**fallenVIXA/fallenVIXA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is FallenVIXA, I'm a web designer and developer. Here you'll find various projects and work related to web design and programming.
 
-Here are some ideas to get you started:
+## About Me 🙋‍♂️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 Web Design and Development
+- 💻 HTML5, CSS3, JavaScript
+- 🎮 FiveM Scripts and Mods
+- 🤖 Discord Bots
+
+## I’m currently working on 🔭
+
+-  My server FiveM and developing FiveM scripts
+
+## I currently learning 🌱
+
+- 🪡 PHP
+- 🌙 Lua
+
+## Get in Touch 📫
+
+If you have any questions, suggestions, or would like to collaborate, feel free to reach out to me through the following channels:
+
+- Portfolio: [https://fallenvixa.github.io/](https://fallenvixa.github.io/)
+- Email: [wojslab@gmail.com@gmail.com](mailto:wojslab@gmail.com)
+
+Thank you for visiting my GitHub profile!
