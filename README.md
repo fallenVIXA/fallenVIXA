@@ -22,7 +22,7 @@ My name is FallenVIXA, I'm a web designer and developer. Here you'll find variou
 
 If you have any questions, suggestions, or would like to collaborate, feel free to reach out to me through the following channels:
 
-- Portfolio: [https://fallenvixa.github.io/](https://fallenvixa.github.io/)
+- Portfolio: [https://fallenvixa.github.io/](https://fallenvixa.github.io/fallenVIXA-Portfolio/)
 - Email: [wojslab@gmail.com](mailto:wojslab@gmail.com)
 
 Thank you for visiting my GitHub profile!
